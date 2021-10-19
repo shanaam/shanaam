@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello! 👋
+
+My name is Shanaa, and I am a PhD Candidate at York University in Toronto, Ontario, Canada.
+
+I am a researcher focusing on sensorimotor learning at [The Sensorimotor Control Lab](https://deniseh.lab.yorku.ca/) at York University in Toronto, Ontario, Canada. My supervisor is Dr. Denise Henriques. Our lab is part of [The Centre for Vision Research,](https://www.yorku.ca/cvr/) a large working group of multidisciplinary vision-related researchers at York University.
 
 <!--
 **shanaam/shanaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
