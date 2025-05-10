@@ -1,9 +1,5 @@
 ### Hello! 👋
 
-My name is Shanaa,
-
-I am a researcher focusing on sensorimotor learning.
-
 <!--
 **shanaam/shanaam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
